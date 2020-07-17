@@ -3,6 +3,7 @@
 This a standalone react/redux application for atomistic material structures design. Used within the Exabyte.io platform as explained in the corresponding part of its documentatation [here](https://docs.exabyte.io/materials-designer/overview/).
 
 ![Materials Designer in action](https://docs.exabyte.io/images/materials-designer/CreateMaterialSupercell.gif "Materials Designer in action")
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fblokhin%2Fmaterials-designer.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fblokhin%2Fmaterials-designer?ref=badge_shield)
 
 ## Functionality
 
@@ -89,3 +90,7 @@ This package depends on [Made.js](https://github.com/Exabyte-io/made.js) and [Wa
 ## Links
 
 1. [Create React App, GitHub Repository](https://github.com/facebook/create-react-app)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fblokhin%2Fmaterials-designer.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fblokhin%2Fmaterials-designer?ref=badge_large)
